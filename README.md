@@ -2,9 +2,9 @@ Description:
 - This Java project extends the original TMUber System (from Assignment 1), simulating a ride-sharing platform similar to Uber. The extended features introduce new functionalities, including service request queues, zone-based location management, and enhanced file I/O with exception handling.
 
 Features:
-1)CityMap Enhancements:    
-    - The city is now divided into four zones.
-    - A static method getCityZone(String address) returns the zone based on a given address or -1 if the address is invalid.
+- CityMap Enhancements:
+-     The city is now divided into four zones.
+-     A static method getCityZone(String address) returns the zone based on a given address or -1 if the address is invalid.
 
 2)New Commands in TMUberUI:
     - PICKUP: Assigns a service request to a driver.
