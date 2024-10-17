@@ -3,8 +3,8 @@ Description:
 
 Features:
 - CityMap Enhancements:
--     The city is now divided into four zones.
--     A static method getCityZone(String address) returns the zone based on a given address or -1 if the address is invalid.
+    - The city is now divided into four zones.
+    - A static method getCityZone(String address) returns the zone based on a given address or -1 if the address is invalid.
 
 2)New Commands in TMUberUI:
     - PICKUP: Assigns a service request to a driver.
