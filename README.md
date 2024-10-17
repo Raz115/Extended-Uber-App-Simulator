@@ -1,3 +1,5 @@
+# Extended-Uber-App-Simulator
+
 Description:
 - This Java project extends the original TMUber System (from Assignment 1), simulating a ride-sharing platform similar to Uber. The extended features introduce new functionalities, including service request queues, zone-based location management, and enhanced file I/O with exception handling.
 
